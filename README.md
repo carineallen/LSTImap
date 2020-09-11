@@ -246,4 +246,4 @@ This library is copyright © 2020 Carine Allen.
 
 
 ### License
-
+This library is released under the [MIT license](https://github.com/carineallen/LSTImap/blob/add-license-1/LICENSE).
