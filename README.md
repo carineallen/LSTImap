@@ -1,16 +1,16 @@
-### Introduction
+*** Introduction
 
 This repository contains an easy-to-use .NET library written in Visual Basic(C# version will be coming soon) for sending
 and receiving information from an email server using IMAP(Internet Message Access Protocol) according to [RFC 3501](https://tools.ietf.org/html/rfc3501).
 
-### Motivation
+*** Motivation
 
 I needed a Library to handle emails with IMAP, to read emails,create folders,delete messages,etc. there's already some libraries
 for handle emails with a server, but I didn't find any that mached my needs(most I needed to be Free of charge and written in VB). 
 But I found one that handles Post Office Protocol (POP3), [You can click here to see it](https://github.com/foens/hpop). It is written
 in C# and dosen't handle IMAP but it help me to figure it out how to construct the decode part for my library.
 
-### How to use
+*** How to use?
 
 He is a small example on How to use the library:
 
@@ -247,3 +247,5 @@ This library is copyright © 2020 Carine Allen.
 
 ### License
 This library is released under the [MIT license](https://github.com/carineallen/LSTImap/blob/add-license-1/LICENSE).
+
+THANK YOU..........
